@@ -2,7 +2,7 @@
   "mappings": [
     "/content/ue-xwalk-aemcs/:/",
     "/content/ue-xwalk-aemcs/configuration:/.helix/config.json",
-    "/content/ue-xwalk-aemcs/metadata:/metadata.json",
+    "/content/ue-xwalk-aemcs/metadata:/metadata.json"
   ],
   "includes": [
     "/content/ue-xwalk-aemcs/"
