@@ -17,7 +17,7 @@ import {
 } from './experiment-loader.js';
 
 const experimentationConfig = {
-  prodHost: 'www.my-site.com',
+  prodHost: 'www.mysite.com',
   audiences: {
     mobile: () => window.innerWidth < 600,
     desktop: () => window.innerWidth >= 600,
